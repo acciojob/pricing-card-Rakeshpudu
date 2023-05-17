@@ -1,1 +1,30 @@
 /*  your css code here. If applicable */
+.card{
+	width:55%;
+	height:100%;
+	background-color: #f5f5f5;
+	padding:9%;
+	border-radious:5%;
+	
+}
+.center{
+	display:flex;
+	justify-content:center;
+}
+.heading{
+	font-size:48px;
+}
+p{
+	font-size:30px;
+	font-weight:blod;
+	margin-top:30px;
+}
+.btn{
+	font-size:30px;
+	width:150px;
+	border-radious:20%;
+	background-color:tomato;
+	color:white;
+	border:none;
+	padding:6px;
+}
